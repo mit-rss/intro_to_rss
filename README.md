@@ -24,7 +24,7 @@ will be accessible on GitHub, an online service for hosting Git repositories.
 #### Setup
 
 For this lab, you will need access to a Debian-based (e.g. Debian or Ubuntu) shell. 
-​Install the course software using the [base_installation](https://github.com/mit-rss/base_installation) instructions. 
+Install the course software using the [base_installation](https://github.com/mit-rss/base_installation) instructions. 
 
 #### Lab Links 
 

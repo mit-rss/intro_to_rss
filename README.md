@@ -5,13 +5,12 @@ Welcome to Robotics: Science and Systems!
 ## Lab 1 A-B: Overview
 
 In this lab, 
-we will learn about and gain experience with Linux operating systems, 
-Virtual Machines (VM), and Git and GitHub. 
+we will learn about and gain experience with Linux operating systems, Docker images, Git and GitHub. 
 
 In this class, you will be using the Debian Linux distribution as your operating system, 
 as it is widely used in robotics and supports the robotics software we will be using. 
 Since you may not want to replace your current operating system, 
-you can use a virtual machine to run another operating system within your current operating system. 
+you can use a Docker image to run another operating system within your current operating system. 
 
 This class relies heavily on team software development, 
 so we will need tools for collaborating and synchronizing each other’s work. 

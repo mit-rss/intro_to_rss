@@ -34,3 +34,16 @@ Install the course software using the [base_installation](https://github.com/mit
 
 You can find due dates and submission information at the beginning of each lab linked above.
 
+### Grading
+
+| Problem | Weight (total: 6.0)             |
+|---------------|----------------------------------------------------------------------------|
+| Intro to Linux Parts 1a - 3d each | .1 |
+| Intro to Linux Parts 4a - 4b each  | .5 |
+| Intro to Linux Part 4c  | .4 |
+| Intro to Git clean working directory  | .2 |
+| Intro to Git Part 1: Linux exercise push  | .3 |
+| Intro to Git Part 1: Starter files push  | .4 |
+| Intro to Git Part 1: History push  | .3 |
+| Intro to Git Part 2 | 1.2|
+| Intro to Git Part 3 | .6 |

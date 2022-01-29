@@ -31,7 +31,13 @@ Install the course software using the [base_installation](https://github.com/mit
 | ----------------------------|-----------------------------------------------|
 |  **Lab 1B: Intro to Git**   | **https://github.com/mit-rss/intro_to_git/**  |
 
-You can find due dates and submission information at the beginning of each lab linked above.
+You can find due dates and submission information below as well as at the beginning of each lab linked above.
+
+| Deliverable | Due Date              |
+|---------------|----------------------------------------------------------------------------|
+| [Base Installation](https://github.com/mit-rss/base_installation) (nothing to submit)  | Monday, February 7th at 1:00PM EST |
+| Intro to Linux Gradescope Submission  | Monday, February 7th at 1:00PM EST |
+| [Intro to Git](https://github.com/mit-rss/intro_to_git/blob/master/README.md) Gradescope Submission  | Monday, February 7th at 1:00PM EST |
 
 ### Grading
 

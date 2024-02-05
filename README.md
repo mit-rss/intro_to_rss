@@ -35,9 +35,9 @@ You can find due dates and submission information below as well as at the beginn
 
 | Deliverable | Due Date              |
 |---------------|----------------------------------------------------------------------------|
-| Base Installation (nothing to submit)  | Monday, February 5th at 1:00PM EST |
-| Intro to Linux [Gradescope Submission](https://www.gradescope.com/courses/362909/assignments/1811616)  | Monday, February 13th at 1:00PM EST |
-| Intro to Git [Gradescope Submission](https://www.gradescope.com/courses/362909/assignments/1811643)  | Monday, February 13th at 1:00PM EST |
+| Base Installation (nothing to submit)  | Monday, February 5th at 5:00PM EST |
+| Intro to Linux [Gradescope Submission](https://www.gradescope.com/courses/728544/assignments/4053193)  | Monday, February 12th at 1:00PM EST |
+| Intro to Git [Gradescope Submission](https://www.gradescope.com/courses/362909/assignments/1811643)  | Monday, February 12th at 1:00PM EST |
 
 ### Grading
 
